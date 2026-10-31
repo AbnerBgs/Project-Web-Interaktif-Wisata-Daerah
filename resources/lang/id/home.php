@@ -1,0 +1,21 @@
+<?php
+return [
+    'hero_title'        => 'Jelajahi <span class="text-white underline decoration-wavy decoration-amber-300">Keindahan</span><br>Wisata Nusantara',
+    'hero_subtitle'     => 'Temukan destinasi wisata terbaik, event budaya, dan panduan perjalanan lengkap di ujung jari Anda.',
+    'search_placeholder'=> 'Cari destinasi, kota, atau wilayah...',
+    'search_btn'        => 'Cari',
+    'destinations_in'   => 'destinasi di',
+    'regions'           => 'wilayah',
+    'stat_destinations' => 'Destinasi Wisata',
+    'stat_regions'      => 'Wilayah',
+    'stat_categories'   => 'Kategori',
+    'popular_title'     => 'Destinasi Populer',
+    'popular_subtitle'  => 'Tempat wisata paling banyak dikunjungi dan direkomendasikan.',
+    'see_all'           => 'Lihat Semua',
+    'free'              => 'Gratis',
+    'map_cta_title'     => 'Peta Interaktif Wisata',
+    'map_cta_desc'      => 'Jelajahi semua destinasi wisata langsung di peta. Filter berdasarkan kategori, wilayah, atau temukan yang terdekat dari lokasi Anda.',
+    'map_cta_btn'       => 'Buka Peta Sekarang',
+    'events_title'      => 'Event & Festival Mendatang',
+    'events_subtitle'   => 'Jangan lewatkan acara budaya dan festival daerah yang akan segera digelar.',
+];

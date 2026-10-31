@@ -1,0 +1,21 @@
+<?php
+return [
+    'hero_title'        => 'Explore the <span class="text-white underline decoration-wavy decoration-amber-300">Beauty</span><br>of Indonesian Tourism',
+    'hero_subtitle'     => 'Discover the best tourist destinations, cultural events, and complete travel guides at your fingertips.',
+    'search_placeholder'=> 'Search destinations, cities, or regions...',
+    'search_btn'        => 'Search',
+    'destinations_in'   => 'destinations in',
+    'regions'           => 'regions',
+    'stat_destinations' => 'Tourist Destinations',
+    'stat_regions'      => 'Regions',
+    'stat_categories'   => 'Categories',
+    'popular_title'     => 'Popular Destinations',
+    'popular_subtitle'  => 'Most visited and highly recommended tourist spots.',
+    'see_all'           => 'See All',
+    'free'              => 'Free',
+    'map_cta_title'     => 'Interactive Tourism Map',
+    'map_cta_desc'      => 'Explore all tourist destinations directly on the map. Filter by category, region, or find the nearest from your location.',
+    'map_cta_btn'       => 'Open Map Now',
+    'events_title'      => 'Upcoming Events & Festivals',
+    'events_subtitle'   => 'Don\'t miss upcoming cultural events and local festivals.',
+];
